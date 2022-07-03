@@ -5,6 +5,8 @@ Write your own...
 - https://github.com/MinecraftPublisher/a-dream/
 
 ## License
+[![License version badge](https://img.shields.io/badge/version-1.0-ff69b4)](https://github.com/MinecraftPublisher/a-dream/)
+
 The general rules of a-dream come down to these:
 1. The original license must not be tampered with.
 2. Plagiarism is not allowed.
